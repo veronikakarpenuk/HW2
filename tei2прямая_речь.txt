@@ -1,0 +1,21 @@
+<TEI> 
+    <teiHeader>  
+        <fileDesc>
+            <titleStmt>
+               <title>Мулла-нур</title>
+            </titleStmt>
+            <respStmt>
+                <persName>Карпенюк Вероника</persName>
+                <resp>выделение в тексте прямой речи</resp>
+            </respStmt>
+         </fileDesc>
+    </teiHeader>
+    <text>    
+ <speech> <said type="direct" aloud="true">
+-- Жарко, душно в Дербенте! Взойди-ка на кровлю, Касим; посмотри, как падает за горы солнышко: не краснеет ли запад, не сбираются ли тучи на небе?
+ </said> </speech>
+<speech> <said type="direct" aloud="true">
+       -- Нет, ами (дядя)! Запад голубее глаз моей сестрицы. Солнце упало ярко, словно "золотой цвет" на ее груди. Ни один взор его не гаснет в тумане.
+	</said> </speech>
+    </text>
+</TEI>
